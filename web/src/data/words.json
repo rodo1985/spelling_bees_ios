@@ -1,0 +1,20 @@
+{
+  "Easy": [
+    "cat", "dog", "sun", "hat", "run", "big", "red", "cup", "pen", "sit",
+    "hop", "map", "bug", "fan", "leg", "mud", "pig", "rod", "tip", "web",
+    "van", "wig", "fox", "jet", "box", "mix", "zip", "nut", "log", "fin"
+  ],
+  "Medium": [
+    "apple", "brush", "catch", "dance", "eagle", "fence", "giant", "house",
+    "image", "juice", "knife", "lemon", "magic", "night", "ocean", "piano",
+    "queen", "river", "snake", "table", "uncle", "voice", "witch", "xenon",
+    "yacht", "zebra", "cabin", "draft", "event", "flute"
+  ],
+  "Hard": [
+    "balloon", "captain", "diamond", "elegant", "feature", "glacier", "harmony",
+    "justify", "kitchen", "lantern", "monster", "numbers", "optimum", "pattern",
+    "qualify", "require", "shelter", "through", "uniform", "village", "whisper",
+    "younger", "zippers", "ancient", "balance", "cabinet", "darling", "excited",
+    "fashion", "general"
+  ]
+}
