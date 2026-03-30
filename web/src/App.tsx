@@ -1,9 +1,12 @@
-import { BrowserRouter } from 'react-router-dom'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import WelcomeScreen from './screens/WelcomeScreen'
 
 export default function App() {
   return (
     <BrowserRouter>
-      <h1>Hello Spelling Bee</h1>
+      <Routes>
+        <Route path="/" element={<WelcomeScreen />} />
+      </Routes>
     </BrowserRouter>
   )
 }
